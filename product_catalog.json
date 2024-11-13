@@ -1,0 +1,72 @@
+[
+    {
+        "product_id": 1,
+        "product_name": "EcoFriendly Water Bottle",
+        "description": "Reusable and eco-friendly water bottle made from BPA-free materials. Keeps drinks cool for up to 24 hours.",
+        "price": 24.99,
+        "stock_availability": 100
+    },
+    {
+        "product_id": 2,
+        "product_name": "Organic Cotton T-Shirt",
+        "description": "Comfortable unisex t-shirt made from 100% organic cotton, available in various sizes and colors.",
+        "price": 19.99,
+        "stock_availability": 150
+    },
+    {
+        "product_id": 3,
+        "product_name": "Yoga Mat",
+        "description": "Non-slip, cushioned yoga mat for comfort and stability during workouts. Available in multiple colors.",
+        "price": 39.99,
+        "stock_availability": 75
+    },
+    {
+        "product_id": 4,
+        "product_name": "Stainless Steel Travel Mug",
+        "description": "Durable stainless steel travel mug with a spill-proof lid, keeps drinks hot for up to 12 hours.",
+        "price": 29.99,
+        "stock_availability": 80
+    },
+    {
+        "product_id": 5,
+        "product_name": "Leather Wallet",
+        "description": "Classic leather wallet with multiple card slots and a coin pocket. Available in black and brown.",
+        "price": 49.99,
+        "stock_availability": 60
+    },
+    {
+        "product_id": 6,
+        "product_name": "Bamboo Cutting Board Set",
+        "description": "Eco-friendly bamboo cutting board set, includes 3 sizes for versatile kitchen use.",
+        "price": 34.99,
+        "stock_availability": 90
+    },
+    {
+        "product_id": 7,
+        "product_name": "Scented Candle Set",
+        "description": "Set of 4 scented candles with natural fragrances, perfect for relaxation and aromatherapy.",
+        "price": 24.99,
+        "stock_availability": 50
+    },
+    {
+        "product_id": 8,
+        "product_name": "Ceramic Plant Pot",
+        "description": "Minimalist ceramic plant pot with drainage hole, ideal for small indoor plants.",
+        "price": 14.99,
+        "stock_availability": 120
+    },
+    {
+        "product_id": 9,
+        "product_name": "Stainless Steel Cookware Set",
+        "description": "10-piece stainless steel cookware set, includes pots, pans, and lids for all your cooking needs.",
+        "price": 199.99,
+        "stock_availability": 40
+    },
+    {
+        "product_id": 10,
+        "product_name": "Portable Hammock",
+        "description": "Lightweight and portable hammock, perfect for outdoor relaxation. Comes with carrying bag.",
+        "price": 49.99,
+        "stock_availability": 70
+    }
+]
